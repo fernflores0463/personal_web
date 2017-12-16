@@ -14,12 +14,15 @@ html, body, material-app, md-sidenav-container, .my-content {
 #primary{
   padding: 250px;
   text-align: center;
-  background-color: aqua;
+  background-color: #64BBFF;
 }
 
 .stuff{
   text-align: center;
-  background-color: aqua;
+  background-color: #162938;
+  color: #64BBFF;
+  padding-bottom: 30px !important;
+  padding-top: 30px !important;
 }
 
 .text{
