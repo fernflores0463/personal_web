@@ -6,6 +6,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "deploy": "ng build --prod --base-href=https://fernflores0463.github.io/personal_web/",
+    "postdeploy": "ngh",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
